@@ -5,3 +5,4 @@ description = "MCP Python Interpreter: run python code. Python-mcp-server, mcp-p
 requires-python = ">=3.10"
 # clarify the control flow
 # drop an unused branch
+# avoid re-reading the config on every call
